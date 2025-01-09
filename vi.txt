@@ -1,1 +1,4 @@
 practice merge conflict from branch D
+practice merge conflict from batch C
+
+merge conflict resolved
