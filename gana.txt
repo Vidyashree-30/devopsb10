@@ -1,3 +1,7 @@
 hello everyone
 
 from branch A
+
+hello everyone
+
+from branch B
